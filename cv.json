@@ -1,94 +1,89 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "name": "Santiago Martin Puleio",
+    "label": "Desarrollador de Software",
+    "image": "https://media.licdn.com/dms/image/D4D03AQGGcBm-xifMbA/profile-displayphoto-shrink_200_200/0/1692987369936?e=2147483647&v=beta&t=qoPduomZjDsPhiVoskgPnP6wUbLh5cD_U0ZTivSLcM4",
+    "email": "santypuleio@gmail.com",
+    "phone": "+54 9 11 2182-6396",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Hola, soy Santiago Martín Puleio y, a mis 20 años, descubrí mi gran interés por la programación. Mi objetivo principal es especializarme en el desarrollo de software. Estoy constantemente en búsqueda de nuevas oportunidades para seguir aprendiendo, siempre con el objetivo de mejorar. Hasta el momento, he adquirido conocimientos en lenguajes como Python, HTML, CSS, Java y SQL. Disfruto aplicar lo que aprendo en proyectos reales y considero crucial el trabajo en equipo. Me emociona la idea de participar en proyectos desafiantes, creciendo tanto a nivel personal como profesional, y aportando mis habilidades únicas al equipo.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "C1419",
+      "city": "Villa Devoto",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "santypuleio",
+        "url": "https://www.linkedin.com/in/santiago-martin-puleio-557860243/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "santypuleio",
+        "url": "https://github.com/santypuleio"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "Municipalidad 3 de Febrero",
+      "position": "Analista de datos",
+      "startDate": "2021-05-01",
+      "endDate": "2022-02-01",
+      "summary": "Desarrollo de sistemas interactivos, automatización de tareas y digitalización de procesos (referidos a Stock, Base de datos de pacientes y Base de datos de empleados).",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Complejo Hospitalario Norberto Di Prospero",
+      "position": "Desarrollo y mantenimiento de Sistemas",
+      "startDate": "2022-05-01",
+      "endDate": "2023-04-01",
+      "summary": "Creé un sistema de Stock automatizado para el área de Economato del hospital. Para ello, utilice HTML (para formularios e interfaz gráfica), Java Script (para el Back End) y Google Sheets (como Base de datos de los insumos). Finalmente me encargué del mantenimiento del sistema y de explicarle a quienes iban a usarlo, la manera más óptima de hacerlo, adecuandome a sus necesidades."
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "New Gadgets",
+      "position": "Free Lance - Profesional independiente",
+      "startDate": "2024-02-01",
+      "endDate": "2024-05-01",
+      "summary": "Desarrollé un sistema automatizado de Stock, con estadística (de clientes, compradores y vendedores), una base de datos de compradores y clientes (diferenciando entre mayoristas y minoristas) y una interfaz de visualización de productos para los posibles compradores con el framework de Astro (HTML, CSS y JavaScript)."
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
+
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+    "institution": "Instituto Leonardo Murialdo",
+    "area": "Tecnicatura en Informática",
+    "studyType": "Secundaria y Tecnicatura",
+    "startDate": "2014-01-01",
+    "endDate": "2021-11-01"
+  },
+  {
+    "institution": "UADE (Universidad Argentina de la Empresa)",
+    "area": "Tecnicatura Universitaria en Desarrollo de Software",
+    "studyType": "Tecnicatura Universitaria",
+    "startDate": "2022-08-01",
+    "endDate": null
+  },
+  {
+    "institution": "EducacionIT",
+    "area": "Carrera de Data Science",
+    "studyType": "Carrera Data Science",
+    "startDate": "2024-02-01",
+    "endDate": null
+  },
+  {
+    "institution": "EducacionIT",
+    "area": "Curso Python Programming",
+    "studyType": "Curso",
+    "startDate": "2022-05-19",
+    "endDate": "2022-06-16"
+  }
+  ],
+  
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -109,6 +104,20 @@
     "summary": "Description…"
   }],
   "skills": [
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Backend", "Logica"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
     {
       "name": "HTML",
       "level": "Master",
@@ -131,38 +140,10 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
@@ -173,17 +154,10 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Astro",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     }
   ],
@@ -210,66 +184,40 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Ecommerce-Web",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Página web creada como modelo de Ecommerce en Astro (con HTML, CSS, JavaScript). Aclaración: las compras en este modelo se manejan a través de Whatsapp porque así lo pidió el cliente. Actualmente estoy implementando la API de MercadoPago.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Finalizado"
       ],
-      "url": "https://mars.codes"
+      "url": "https://ecommercemodelpuleio.netlify.app/"
     },
     {
-      "name": "AdventJS",
+      "name": "API Rest Sistema de viajes",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "API Rest creada con el framework de Spring Boot (con los lenguajes: Java y MySQL) para implementar un sistema de viajes completo (manejo de usuarios, inicio de sesión, estados de viajes, notificaciones automatizadas, facturas, reseñas y pagos) con aplicación de patrones de diseño.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Finalizado"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/tomasdaureli/uade.edu.tpo.adoo.guides"
     },
     {
-      "name": "Codember",
+      "name": "Gestor de Stock",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Gestor de Stock en Sheets con formularios HTML, Macros y AppScript.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Finalizado"
       ],
-      "url": "https://codember.dev"
+      "url": "https://docs.google.com/spreadsheets/d/1tbzr2PBqREnxc4cXrdHmegUI1_Z38nFElqtzg-DMcUU/edit#gid=2138097766"
     },
     {
-      "name": "codi.link",
+      "name": "Implementaciones (dinamicas y estáticas) en Java",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Implementaciones estáticas y dinámicas en Java, creación de APIs y pruebas con las mismas.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Finalizado"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/santypuleio/Java---Final-Implementaciones/tree/codespace-glorious-happiness-4jq664gv5g9g2g66/final-java"
     }
   ]
 }
