@@ -193,7 +193,7 @@
       "url": "https://ecommercemodelpuleio.netlify.app/"
     },
     {
-      "name": "REST API for Travel System",
+      "name": "Travel System REST API",
       "isActive": true,
       "description": "REST API created with the Spring Boot framework (using Java and MySQL) to implement a complete travel system (user management, login, trip statuses, automated notifications, invoices, reviews, and payments) with the application of design patterns.",
       "highlights": [
