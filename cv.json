@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Santiago Martin Puleio",
-    "label": "Desarrollador de Software",
+    "label": "Software Developer",
     "image": "https://media.licdn.com/dms/image/D4D03AQGGcBm-xifMbA/profile-displayphoto-shrink_200_200/0/1692987369936?e=2147483647&v=beta&t=qoPduomZjDsPhiVoskgPnP6wUbLh5cD_U0ZTivSLcM4",
     "email": "santypuleio@gmail.com",
     "phone": "+54 9 11 2182-6396",
     "url": "https://midu.dev",
-    "summary": "Hola, soy Santiago Martín Puleio y, a mis 20 años, descubrí mi gran interés por la programación. Mi objetivo principal es especializarme en el desarrollo de software. Estoy constantemente en búsqueda de nuevas oportunidades para seguir aprendiendo, siempre con el objetivo de mejorar. Hasta el momento, he adquirido conocimientos en lenguajes como Python, HTML, CSS, Java y SQL. Disfruto aplicar lo que aprendo en proyectos reales y considero crucial el trabajo en equipo. Me emociona la idea de participar en proyectos desafiantes, creciendo tanto a nivel personal como profesional, y aportando mis habilidades únicas al equipo.",
+    "summary": "Hello, I’m Santiago Martín Puleio, and at 21 years old, I discovered my deep interest in programming. My primary goal is to specialize in software development. I’m constantly seeking new opportunities to keep learning, always aiming to improve. So far, I’ve gained knowledge in languages such as Python, HTML, CSS, JavaScript, Java, and SQL, as well as frameworks like Astro and SpringBoot. I enjoy applying what I learn to real projects and consider teamwork crucial. I’m excited about the idea of participating in challenging projects, growing both personally and professionally, and contributing my unique skills to the team.",
     "location": {
       "address": "",
       "postalCode": "C1419",
@@ -30,54 +30,54 @@
   "work": [
     {
       "name": "Municipalidad 3 de Febrero",
-      "position": "Analista de datos",
+      "position": "Data Analyst",
       "startDate": "2021-05-01",
       "endDate": "2022-02-01",
-      "summary": "Desarrollo de sistemas interactivos, automatización de tareas y digitalización de procesos (referidos a Stock, Base de datos de pacientes y Base de datos de empleados).",
+      "summary": "Development of interactive systems, task automation, and process digitalization (related to Stock, Patient Database, and Employee Database).",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Complejo Hospitalario Norberto Di Prospero",
-      "position": "Desarrollo y mantenimiento de Sistemas",
+      "position": "Development and Maintenance of Systems",
       "startDate": "2022-05-01",
       "endDate": "2023-04-01",
-      "summary": "Creé un sistema de Stock automatizado para el área de Economato del hospital. Para ello, utilice HTML (para formularios e interfaz gráfica), Java Script (para el Back End) y Google Sheets (como Base de datos de los insumos). Finalmente me encargué del mantenimiento del sistema y de explicarle a quienes iban a usarlo, la manera más óptima de hacerlo, adecuandome a sus necesidades."
+      "summary": "I created an automated stock system for the hospital’s purchasing department. For this, I used HTML (for forms and graphical interface), JavaScript (for the back end), and Google Sheets (as the inventory database). I was also responsible for maintaining the system and explaining to users the most efficient way to use it, tailoring it to their needs."
     },
     {
       "name": "New Gadgets",
-      "position": "Free Lance - Profesional independiente",
+      "position": "Freelance Professional",
       "startDate": "2024-02-01",
       "endDate": "2024-05-01",
-      "summary": "Desarrollé un sistema automatizado de Stock, con estadística (de clientes, compradores y vendedores), una base de datos de compradores y clientes (diferenciando entre mayoristas y minoristas) y una interfaz de visualización de productos para los posibles compradores con el framework de Astro (HTML, CSS y JavaScript)."
+      "summary": "I developed an automated stock system with statistics (for clients, buyers, and sellers), a database of buyers and clients (differentiating between wholesalers and retailers), and a product visualization interface for potential buyers using the Astro framework (HTML, CSS, and JavaScript)."
     }
   ],
 
   "education": [{
     "institution": "Instituto Leonardo Murialdo",
-    "area": "Tecnicatura en Informática",
+    "area": "Technical Degree in Computer Science",
     "studyType": "Secundaria y Tecnicatura",
     "startDate": "2014-01-01",
     "endDate": "2021-11-01"
   },
   {
     "institution": "UADE (Universidad Argentina de la Empresa)",
-    "area": "Tecnicatura Universitaria en Desarrollo de Software",
+    "area": "University Technical Degree in Software Development",
     "studyType": "Tecnicatura Universitaria",
     "startDate": "2022-08-01",
     "endDate": null
   },
   {
     "institution": "EducacionIT",
-    "area": "Carrera de Data Science",
-    "studyType": "Carrera Data Science",
+    "area": "Data Science Program",
+    "studyType": "Data Science Program",
     "startDate": "2024-02-01",
     "endDate": null
   },
   {
     "institution": "EducacionIT",
-    "area": "Curso Python Programming",
+    "area": "Python Programming Course",
     "studyType": "Curso",
     "startDate": "2022-05-19",
     "endDate": "2022-06-16"
@@ -186,36 +186,36 @@
     {
       "name": "Ecommerce-Web",
       "isActive": true,
-      "description": "Página web creada como modelo de Ecommerce en Astro (con HTML, CSS, JavaScript). Aclaración: las compras en este modelo se manejan a través de Whatsapp porque así lo pidió el cliente. Actualmente estoy implementando la API de MercadoPago.",
+      "description": "Website created as an e-commerce model in Astro (using HTML, CSS, and JavaScript). Note: Purchases in this model are handled through WhatsApp as requested by the client. I am currently implementing the MercadoPago API.",
       "highlights": [
-        "Finalizado"
+        "Ended"
       ],
       "url": "https://ecommercemodelpuleio.netlify.app/"
     },
     {
-      "name": "API Rest Sistema de viajes",
+      "name": "REST API for Travel System",
       "isActive": true,
-      "description": "API Rest creada con el framework de Spring Boot (con los lenguajes: Java y MySQL) para implementar un sistema de viajes completo (manejo de usuarios, inicio de sesión, estados de viajes, notificaciones automatizadas, facturas, reseñas y pagos) con aplicación de patrones de diseño.",
+      "description": "REST API created with the Spring Boot framework (using Java and MySQL) to implement a complete travel system (user management, login, trip statuses, automated notifications, invoices, reviews, and payments) with the application of design patterns.",
       "highlights": [
-        "Finalizado"
+        "Ended"
       ],
       "url": "https://github.com/tomasdaureli/uade.edu.tpo.adoo.guides"
     },
     {
-      "name": "Gestor de Stock",
+      "name": "Stock Manager",
       "isActive": true,
-      "description": "Gestor de Stock en Sheets con formularios HTML, Macros y AppScript.",
+      "description": "Stock Manager in Sheets with HTML forms, Macros, and AppScript.",
       "highlights": [
-        "Finalizado"
+        "Ended"
       ],
       "url": "https://docs.google.com/spreadsheets/d/1tbzr2PBqREnxc4cXrdHmegUI1_Z38nFElqtzg-DMcUU/edit#gid=2138097766"
     },
     {
-      "name": "Implementaciones (dinamicas y estáticas) en Java",
+      "name": "Implementations (dynamic and static) in Java",
       "isActive": true,
-      "description": "Implementaciones estáticas y dinámicas en Java, creación de APIs y pruebas con las mismas.",
+      "description": "Static and dynamic implementations in Java, API creation, and testing.",
       "highlights": [
-        "Finalizado"
+        "Ended"
       ],
       "url": "https://github.com/santypuleio/Java---Final-Implementaciones/tree/codespace-glorious-happiness-4jq664gv5g9g2g66/final-java"
     }
